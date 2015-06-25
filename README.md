@@ -8,7 +8,7 @@ View full [test stack](https://github.com/test-stack)
 ### waitForDocumentReadyState
 It's useful for waiting until will be document ready
 
-#### How to user
+#### How to use
 ```
 it "wait for document ready state", (done) ->
   client.waitForDocumentReadyState client, done
